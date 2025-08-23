@@ -1,0 +1,33 @@
+Secure Banking System License v1.0 (Custom)
+
+Copyright (c) 2025  
+Authors: Anushka Chaudhary, Arin Ghanshala, Preeti Kothari  
+
+Permission is hereby granted, free of charge, to any academic institution, student, or instructor 
+to use, study, and demonstrate this project ("Secure Banking System") strictly for **educational 
+and non-commercial purposes**.  
+
+Restrictions:
+1. Commercial Use: This project, or any modified version of it, may NOT be used for commercial 
+   purposes, financial transactions, or deployment in real-world banking environments.  
+
+2. Security Disclaimer: This project is a **simulation for learning cryptography concepts only**. 
+   It is not intended, nor should it be used, as a secure banking solution in production.  
+
+3. Modification & Distribution:
+   - You may fork, modify, and share this project **with proper attribution** to the original authors.  
+   - You must include this license in any copies or modifications.  
+
+4. Liability:  
+   The project is provided "AS IS", without warranty of any kind. The authors shall not be held 
+   liable for any damages, security breaches, or losses arising from the use of this code.  
+
+5. Research & Collaboration:  
+   Contributions, pull requests, and discussions are welcome for academic and research purposes.  
+
+By using or distributing this project, you agree to the above terms.  
+
+----------------------------------------------------------
+This license is custom-made for the Secure Banking System 
+(Cryptography Project, 3rd Semester, B.Tech CSE).
+----------------------------------------------------------
