@@ -67,7 +67,7 @@ public:
 
 int main() {
     // Call bash intro script
-    system("bash /home/arin_ghanshala/Documents/VS_Code/server_testing/intro.sh");
+    system("bash /home/ubuntu/intro.sh");
 
     int n;
     cout << "Enter the size of the stack: ";
